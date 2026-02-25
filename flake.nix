@@ -15,6 +15,7 @@
         packages = [
           pkgs.python3
           pkgs.python3Packages.ipykernel
+          pkgs.python3Packages.tqdm
           pkgs.python3Packages.venvShellHook
           pkgs.python3Packages.ipython
           pkgs.python3Packages.beautifulsoup4

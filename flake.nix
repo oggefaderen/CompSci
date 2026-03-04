@@ -23,6 +23,7 @@
           pkgs.python3Packages.seaborn
           pkgs.python3Packages.pandas
           pkgs.python3Packages.numpy
+          pkgs.python3Packages.networkx
         ];
 		
         env.LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [

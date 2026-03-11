@@ -37,6 +37,7 @@
           unset SOURCE_DATE_EPOCH
           pip install --prefix=.venv ipython ipykernel jupyter
           pip install --prefix=.venv bash_kernel
+          pip install netwulf
           python -m bash_kernel.install --sys-prefix
         '';
 		

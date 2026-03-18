@@ -24,6 +24,7 @@
           pkgs.python3Packages.pandas
           pkgs.python3Packages.numpy
           pkgs.python3Packages.networkx
+          pkgs.python3Packages.nltk
         ];
 		
         env.LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [

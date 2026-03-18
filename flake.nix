@@ -25,6 +25,7 @@
           pkgs.python3Packages.numpy
           pkgs.python3Packages.networkx
           pkgs.python3Packages.nltk
+          pkgs.python3Packages.python-louvain
         ];
 		
         env.LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [

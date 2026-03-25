@@ -26,6 +26,7 @@
           pkgs.python3Packages.networkx
           pkgs.python3Packages.nltk
           pkgs.python3Packages.python-louvain
+          pkgs.python3Packages.wordcloud
         ];
 		
         env.LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [

@@ -8,11 +8,11 @@
 ### Assortativity (Part 1)
 
 - [x] **ASRT-01**: Calculate country-based assortativity coefficient using manual formula (equation 2 from Newman paper) — not NetworkX
-- [ ] **ASRT-02**: Implement configuration model via double edge swap algorithm (steps a-f from assignment)
-- [ ] **ASRT-03**: Verify configuration model preserves degree sequence
-- [ ] **ASRT-04**: Generate 100 random networks, compute country assortativity for each, plot distribution, compare with original
-- [ ] **ASRT-05**: Calculate degree assortativity using lecture formula
-- [ ] **ASRT-06**: Compare degree assortativity against 100 random networks, analyze hub-to-hub connection tendency
+- [x] **ASRT-02**: Implement configuration model via double edge swap algorithm (steps a-f from assignment)
+- [x] **ASRT-03**: Verify configuration model preserves degree sequence
+- [x] **ASRT-04**: Generate 100 random networks, compute country assortativity for each, plot distribution, compare with original
+- [x] **ASRT-05**: Calculate degree assortativity using lecture formula
+- [x] **ASRT-06**: Compare degree assortativity against 100 random networks, analyze hub-to-hub connection tendency
 
 ### Reflections (Part 1)
 
@@ -65,11 +65,11 @@ None — single assignment delivery.
 | Requirement | Phase | Status |
 |-------------|-------|--------|
 | ASRT-01 | Phase 1 | Complete |
-| ASRT-02 | Phase 1 | Pending |
-| ASRT-03 | Phase 1 | Pending |
-| ASRT-04 | Phase 1 | Pending |
-| ASRT-05 | Phase 1 | Pending |
-| ASRT-06 | Phase 1 | Pending |
+| ASRT-02 | Phase 1 | Complete |
+| ASRT-03 | Phase 1 | Complete |
+| ASRT-04 | Phase 1 | Complete |
+| ASRT-05 | Phase 1 | Complete |
+| ASRT-06 | Phase 1 | Complete |
 | REFL-01 | Phase 2 | Pending |
 | REFL-02 | Phase 2 | Pending |
 | REFL-03 | Phase 2 | Pending |

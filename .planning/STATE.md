@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-stopped_at: Completed 01-01-PLAN.md
-last_updated: "2026-03-28T18:58:10.487Z"
+stopped_at: Completed 01-02-PLAN.md
+last_updated: "2026-03-28T19:01:29.088Z"
 progress:
   total_phases: 5
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 2
-  completed_plans: 1
+  completed_plans: 2
 ---
 
 # Project State
@@ -47,6 +47,7 @@ Plan: 2 of 2
 
 *Updated after each plan completion*
 | Phase 01 P01 | 2 | 2 tasks | 1 files |
+| Phase 01 P02 | 3 | 2 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -59,6 +60,8 @@ Plan: 2 of 2
 - [01-01]: Country attributes loaded before Q1 cell (moved earlier than in Part1.ipynb)
 - [Phase 01]: Newman eq. 2 mixing matrix uses symmetric edge_type_counts with M=2*total_edges normalization; result stored as original_country_r
 - [Phase 01]: Country attributes loaded before Q1 cell (moved earlier than in Part1.ipynb)
+- [Phase 01-02]: Q3 axvline uses original_country_r (country assortativity from Q1), not degree r — fixes bug present in Part1.ipynb
+- [Phase 01-02]: original_degree_r named explicitly before Q5 loop to prevent cross-contamination with Q3 country r variable
 
 ### Pending Todos
 
@@ -70,6 +73,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-28T18:58:02.643Z
-Stopped at: Completed 01-01-PLAN.md
+Last session: 2026-03-28T19:01:24.818Z
+Stopped at: Completed 01-02-PLAN.md
 Resume file: None

@@ -12,7 +12,7 @@ The assignment delivers a single Jupyter notebook (`Assignment2.ipynb`) covering
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Assortativity Code** - Part 1 code is verified correct and produces valid outputs for all six assortativity requirements
+- [x] **Phase 1: Assortativity Code** - Part 1 code is verified correct and produces valid outputs for all six assortativity requirements (completed 2026-03-28)
 - [ ] **Phase 2: Part 1 Reflections** - All three written reflection answers for Part 1 are complete
 - [ ] **Phase 3: TF-IDF Implementation** - IDF bug fixed, TF-IDF code runs correctly, Q3 and Q4 analysis written
 - [ ] **Phase 4: Part 2 Writing and Word Clouds** - TF-IDF explanation, word cloud code, all Part 2 commentary, and field reflection written
@@ -90,7 +90,7 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 â
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Assortativity Code | 1/2 | In Progress|  |
+| 1. Assortativity Code | 2/2 | Complete   | 2026-03-28 |
 | 2. Part 1 Reflections | 0/TBD | Not started | - |
 | 3. TF-IDF Implementation | 0/TBD | Not started | - |
 | 4. Part 2 Writing and Word Clouds | 0/TBD | Not started | - |

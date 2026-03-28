@@ -1,0 +1,99 @@
+# Requirements: DTU 02467 Assignment 2
+
+**Defined:** 2026-03-28
+**Core Value:** Every question answered completely with running code, rendered plots, and precise written analysis
+
+## v1 Requirements
+
+### Assortativity (Part 1)
+
+- [ ] **ASRT-01**: Calculate country-based assortativity coefficient using manual formula (equation 2 from Newman paper) — not NetworkX
+- [ ] **ASRT-02**: Implement configuration model via double edge swap algorithm (steps a-f from assignment)
+- [ ] **ASRT-03**: Verify configuration model preserves degree sequence
+- [ ] **ASRT-04**: Generate 100 random networks, compute country assortativity for each, plot distribution, compare with original
+- [ ] **ASRT-05**: Calculate degree assortativity using lecture formula
+- [ ] **ASRT-06**: Compare degree assortativity against 100 random networks, analyze hub-to-hub connection tendency
+
+### Reflections (Part 1)
+
+- [ ] **REFL-01**: Written analysis — were degree assortativity results expected? Why/why not?
+- [ ] **REFL-02**: Written analysis — why is edge flipping (50% direction flip) included in configuration model?
+- [ ] **REFL-03**: Written analysis — describe distribution of degree assortativity in random networks, discuss theoretical expectations
+
+### TF-IDF (Part 2)
+
+- [ ] **TFID-01**: Explain TF-IDF in own words (what is TF? what is IDF?)
+- [ ] **TFID-02**: Create large token documents per community using pandas groupby/explode
+- [ ] **TFID-03**: Calculate TF for top 5 communities, list top 5 terms, discuss similarities/differences, explain why TF alone is insufficient, state log base choice
+- [ ] **TFID-04**: Calculate TF-IDF for top 9 communities — list top 10 TF words, top 10 TF-IDF words, top 3 authors by degree, discuss whether TF-IDF is more descriptive and why IDF helps
+
+### Visualization (Part 2)
+
+- [ ] **VIZN-01**: Generate word cloud per community with top 3 author names displayed
+- [ ] **VIZN-02**: Comment on results — what do sub-communities reveal about Computational Social Science?
+- [ ] **VIZN-03**: Look up top author per community online, discuss whether results make sense
+
+### Reflection (Part 2)
+
+- [ ] **CSCI-01**: Reflection — has understanding of Computational Social Science field changed? How?
+
+### Notebook Assembly
+
+- [ ] **ASBL-01**: Merge Part 1 and Part 2 into single Assignment2.ipynb
+- [ ] **ASBL-02**: First cell contains repo link and contribution statement
+- [ ] **ASBL-03**: Each question repeated as markdown header before its answer
+- [ ] **ASBL-04**: Code split by question (not monolithic cells)
+- [ ] **ASBL-05**: All plots have labeled axes, titles, and explanatory text
+- [ ] **ASBL-06**: Notebook runs end-to-end with Kernel > Restart & Run All
+- [ ] **ASBL-07**: No long outputs — minimize prints, control display length
+
+## v2 Requirements
+
+None — single assignment delivery.
+
+## Out of Scope
+
+| Feature | Reason |
+|---------|--------|
+| Original data collection | Reuse CSVs from prior weeks |
+| Community detection | Reuse Week 6 results |
+| Tokenization implementation | Reuse Week 7/8 code |
+| Interactive visualizations | Static matplotlib sufficient |
+
+## Traceability
+
+| Requirement | Phase | Status |
+|-------------|-------|--------|
+| ASRT-01 | TBD | Pending |
+| ASRT-02 | TBD | Pending |
+| ASRT-03 | TBD | Pending |
+| ASRT-04 | TBD | Pending |
+| ASRT-05 | TBD | Pending |
+| ASRT-06 | TBD | Pending |
+| REFL-01 | TBD | Pending |
+| REFL-02 | TBD | Pending |
+| REFL-03 | TBD | Pending |
+| TFID-01 | TBD | Pending |
+| TFID-02 | TBD | Pending |
+| TFID-03 | TBD | Pending |
+| TFID-04 | TBD | Pending |
+| VIZN-01 | TBD | Pending |
+| VIZN-02 | TBD | Pending |
+| VIZN-03 | TBD | Pending |
+| CSCI-01 | TBD | Pending |
+| ASBL-01 | TBD | Pending |
+| ASBL-02 | TBD | Pending |
+| ASBL-03 | TBD | Pending |
+| ASBL-04 | TBD | Pending |
+| ASBL-05 | TBD | Pending |
+| ASBL-06 | TBD | Pending |
+| ASBL-07 | TBD | Pending |
+
+**Coverage:**
+- v1 requirements: 24 total
+- Mapped to phases: 0
+- Unmapped: 24
+
+---
+*Requirements defined: 2026-03-28*
+*Last updated: 2026-03-28 after initial definition*

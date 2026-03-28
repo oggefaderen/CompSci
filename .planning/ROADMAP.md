@@ -100,6 +100,6 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 â
 |-------|----------------|--------|-----------|
 | 1. Assortativity Code | 2/2 | Complete   | 2026-03-28 |
 | 2. Part 1 Reflections | 1/1 | Complete    | 2026-03-28 |
-| 3. TF-IDF Implementation | 1/3 | In Progress|  |
+| 3. TF-IDF Implementation | 2/3 | In Progress|  |
 | 4. Part 2 Writing and Word Clouds | 0/TBD | Not started | - |
 | 5. Notebook Assembly | 0/TBD | Not started | - |

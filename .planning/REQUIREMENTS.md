@@ -64,36 +64,36 @@ None — single assignment delivery.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| ASRT-01 | TBD | Pending |
-| ASRT-02 | TBD | Pending |
-| ASRT-03 | TBD | Pending |
-| ASRT-04 | TBD | Pending |
-| ASRT-05 | TBD | Pending |
-| ASRT-06 | TBD | Pending |
-| REFL-01 | TBD | Pending |
-| REFL-02 | TBD | Pending |
-| REFL-03 | TBD | Pending |
-| TFID-01 | TBD | Pending |
-| TFID-02 | TBD | Pending |
-| TFID-03 | TBD | Pending |
-| TFID-04 | TBD | Pending |
-| VIZN-01 | TBD | Pending |
-| VIZN-02 | TBD | Pending |
-| VIZN-03 | TBD | Pending |
-| CSCI-01 | TBD | Pending |
-| ASBL-01 | TBD | Pending |
-| ASBL-02 | TBD | Pending |
-| ASBL-03 | TBD | Pending |
-| ASBL-04 | TBD | Pending |
-| ASBL-05 | TBD | Pending |
-| ASBL-06 | TBD | Pending |
-| ASBL-07 | TBD | Pending |
+| ASRT-01 | Phase 1 | Pending |
+| ASRT-02 | Phase 1 | Pending |
+| ASRT-03 | Phase 1 | Pending |
+| ASRT-04 | Phase 1 | Pending |
+| ASRT-05 | Phase 1 | Pending |
+| ASRT-06 | Phase 1 | Pending |
+| REFL-01 | Phase 2 | Pending |
+| REFL-02 | Phase 2 | Pending |
+| REFL-03 | Phase 2 | Pending |
+| TFID-01 | Phase 4 | Pending |
+| TFID-02 | Phase 3 | Pending |
+| TFID-03 | Phase 3 | Pending |
+| TFID-04 | Phase 3 | Pending |
+| VIZN-01 | Phase 4 | Pending |
+| VIZN-02 | Phase 4 | Pending |
+| VIZN-03 | Phase 4 | Pending |
+| CSCI-01 | Phase 4 | Pending |
+| ASBL-01 | Phase 5 | Pending |
+| ASBL-02 | Phase 5 | Pending |
+| ASBL-03 | Phase 5 | Pending |
+| ASBL-04 | Phase 5 | Pending |
+| ASBL-05 | Phase 5 | Pending |
+| ASBL-06 | Phase 5 | Pending |
+| ASBL-07 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 24 total
-- Mapped to phases: 0
-- Unmapped: 24
+- Mapped to phases: 24
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-28*
-*Last updated: 2026-03-28 after initial definition*
+*Last updated: 2026-03-28 — traceability updated after roadmap creation*

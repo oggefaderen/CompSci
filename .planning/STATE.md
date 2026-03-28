@@ -2,14 +2,14 @@
 gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
-status: unknown
-stopped_at: Phase 3 context gathered
-last_updated: "2026-03-28T20:06:50.825Z"
+status: executing
+stopped_at: "Completed 03-01-PLAN.md"
+last_updated: "2026-03-28T20:24:00Z"
 progress:
   total_phases: 5
   completed_phases: 2
-  total_plans: 3
-  completed_plans: 3
+  total_plans: 6
+  completed_plans: 4
 ---
 
 # Project State
@@ -19,12 +19,12 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-28)
 
 **Core value:** Every question answered completely — code runs end-to-end, plots render with proper labels, written analysis is precise and data-supported
-**Current focus:** Phase 02 — part-1-reflections
+**Current focus:** Phase 03 — tf-idf-implementation
 
 ## Current Position
 
-Phase: 02 (part-1-reflections) — COMPLETE
-Plan: 1 of 1 — DONE
+Phase: 03 (tf-idf-implementation) — EXECUTING
+Plan: 2 of 3
 
 ## Performance Metrics
 
@@ -50,6 +50,7 @@ Plan: 1 of 1 — DONE
 | Phase 01 P01 | 2 | 2 tasks | 1 files |
 | Phase 01 P02 | 3 | 2 tasks | 1 files |
 | Phase 02 P01 | 1 | 1 task | 1 files |
+| Phase 03 P01 | 2 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -68,6 +69,9 @@ Plan: 1 of 1 — DONE
 - [02-01]: Q7 cites right-tail position of original_degree_r relative to null distribution; attributes departure to social mechanisms
 - [02-01]: Q8 names NetworkX consistent internal edge ordering as root cause of directional bias; flip corrects it over many swaps
 - [02-01]: Q9 uses bell-shaped keyword explicitly; explains narrow spread via fixed degree sequence constraint of configuration model
+- [03-01]: author_communities.csv placed in Assignment2/ with ./relative path — keeps notebook self-contained, no ../Week6/ references
+- [03-01]: inverted_index_to_text() defined inline in part2-load-data cell — notebook remains runnable as standalone
+- [03-01]: community_docs uses .to_dict() after groupby/apply — produces plain Python dict indexed by community int for TF/TF-IDF cells
 
 ### Pending Todos
 
@@ -79,5 +83,5 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-28T20:06:50.814Z
-Stopped at: Phase 3 context gathered
+Last session: 2026-03-28T20:24:00Z
+Stopped at: Completed 03-01-PLAN.md

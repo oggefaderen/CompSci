@@ -58,7 +58,12 @@ Plans:
   2. Top 5 TF terms are listed for each of the top 5 communities, with written analysis explaining similarities, differences, and why TF alone is insufficient
   3. Top 10 TF words and top 10 TF-IDF words are listed for each of the top 9 communities, with top 3 authors by degree identified per community
   4. Written analysis for Q4 explains whether TF-IDF is more descriptive than TF alone and why IDF improves specificity
-**Plans**: TBD
+**Plans**: 3 plans
+
+Plans:
+- [ ] 03-01-PLAN.md — Copy author_communities.csv + Part 2 foundation cells (imports, data loading, community_docs)
+- [ ] 03-02-PLAN.md — TF calculation for all communities + Q3 analysis (similarities, insufficiency, log base)
+- [ ] 03-03-PLAN.md — IDF bug fix (N=12) + TF-IDF display for top 9 communities + Q4 analysis
 
 ### Phase 4: Part 2 Writing and Word Clouds
 **Goal**: TF-IDF concept explanation, word cloud visualizations, community commentary, and field reflection are all complete
@@ -95,6 +100,6 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 �
 |-------|----------------|--------|-----------|
 | 1. Assortativity Code | 2/2 | Complete   | 2026-03-28 |
 | 2. Part 1 Reflections | 1/1 | Complete    | 2026-03-28 |
-| 3. TF-IDF Implementation | 0/TBD | Not started | - |
+| 3. TF-IDF Implementation | 1/3 | In Progress|  |
 | 4. Part 2 Writing and Word Clouds | 0/TBD | Not started | - |
 | 5. Notebook Assembly | 0/TBD | Not started | - |

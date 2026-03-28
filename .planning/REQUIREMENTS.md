@@ -23,7 +23,7 @@
 ### TF-IDF (Part 2)
 
 - [ ] **TFID-01**: Explain TF-IDF in own words (what is TF? what is IDF?)
-- [ ] **TFID-02**: Create large token documents per community using pandas groupby/explode
+- [x] **TFID-02**: Create large token documents per community using pandas groupby/explode
 - [ ] **TFID-03**: Calculate TF for top 5 communities, list top 5 terms, discuss similarities/differences, explain why TF alone is insufficient, state log base choice
 - [ ] **TFID-04**: Calculate TF-IDF for top 9 communities — list top 10 TF words, top 10 TF-IDF words, top 3 authors by degree, discuss whether TF-IDF is more descriptive and why IDF helps
 
@@ -74,7 +74,7 @@ None — single assignment delivery.
 | REFL-02 | Phase 2 | Complete |
 | REFL-03 | Phase 2 | Complete |
 | TFID-01 | Phase 4 | Pending |
-| TFID-02 | Phase 3 | Pending |
+| TFID-02 | Phase 3 | Complete |
 | TFID-03 | Phase 3 | Pending |
 | TFID-04 | Phase 3 | Pending |
 | VIZN-01 | Phase 4 | Pending |

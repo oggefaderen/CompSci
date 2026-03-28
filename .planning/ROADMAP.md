@@ -30,7 +30,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. A plot of country assortativity distribution over 100 random networks renders, with the original network's value marked visually
   4. Degree assortativity is computed using the lecture formula and outputs a value that can be compared against the random network baseline
   5. A plot of degree assortativity distribution over 100 random networks renders, with the original value marked
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [x] 01-01-PLAN.md — Foundation cells + Q1 country assortativity (Newman eq. 2)
+- [ ] 01-02-PLAN.md — Q2 config model, Q3 country distribution, Q4 degree assort, Q5 degree distribution
 
 ### Phase 2: Part 1 Reflections
 **Goal**: The three written reflection questions (Q7, Q8, Q9) are answered in the notebook with precise, data-supported prose
@@ -86,7 +90,7 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 �
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Assortativity Code | 0/TBD | Not started | - |
+| 1. Assortativity Code | 1/2 | In Progress|  |
 | 2. Part 1 Reflections | 0/TBD | Not started | - |
 | 3. TF-IDF Implementation | 0/TBD | Not started | - |
 | 4. Part 2 Writing and Word Clouds | 0/TBD | Not started | - |

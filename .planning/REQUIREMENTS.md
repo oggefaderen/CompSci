@@ -7,7 +7,7 @@
 
 ### Assortativity (Part 1)
 
-- [ ] **ASRT-01**: Calculate country-based assortativity coefficient using manual formula (equation 2 from Newman paper) — not NetworkX
+- [x] **ASRT-01**: Calculate country-based assortativity coefficient using manual formula (equation 2 from Newman paper) — not NetworkX
 - [ ] **ASRT-02**: Implement configuration model via double edge swap algorithm (steps a-f from assignment)
 - [ ] **ASRT-03**: Verify configuration model preserves degree sequence
 - [ ] **ASRT-04**: Generate 100 random networks, compute country assortativity for each, plot distribution, compare with original
@@ -64,7 +64,7 @@ None — single assignment delivery.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| ASRT-01 | Phase 1 | Pending |
+| ASRT-01 | Phase 1 | Complete |
 | ASRT-02 | Phase 1 | Pending |
 | ASRT-03 | Phase 1 | Pending |
 | ASRT-04 | Phase 1 | Pending |

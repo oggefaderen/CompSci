@@ -16,9 +16,9 @@
 
 ### Reflections (Part 1)
 
-- [ ] **REFL-01**: Written analysis — were degree assortativity results expected? Why/why not?
-- [ ] **REFL-02**: Written analysis — why is edge flipping (50% direction flip) included in configuration model?
-- [ ] **REFL-03**: Written analysis — describe distribution of degree assortativity in random networks, discuss theoretical expectations
+- [x] **REFL-01**: Written analysis — were degree assortativity results expected? Why/why not?
+- [x] **REFL-02**: Written analysis — why is edge flipping (50% direction flip) included in configuration model?
+- [x] **REFL-03**: Written analysis — describe distribution of degree assortativity in random networks, discuss theoretical expectations
 
 ### TF-IDF (Part 2)
 
@@ -70,9 +70,9 @@ None — single assignment delivery.
 | ASRT-04 | Phase 1 | Complete |
 | ASRT-05 | Phase 1 | Complete |
 | ASRT-06 | Phase 1 | Complete |
-| REFL-01 | Phase 2 | Pending |
-| REFL-02 | Phase 2 | Pending |
-| REFL-03 | Phase 2 | Pending |
+| REFL-01 | Phase 2 | Complete |
+| REFL-02 | Phase 2 | Complete |
+| REFL-03 | Phase 2 | Complete |
 | TFID-01 | Phase 4 | Pending |
 | TFID-02 | Phase 3 | Pending |
 | TFID-03 | Phase 3 | Pending |
@@ -96,4 +96,4 @@ None — single assignment delivery.
 
 ---
 *Requirements defined: 2026-03-28*
-*Last updated: 2026-03-28 — traceability updated after roadmap creation*
+*Last updated: 2026-03-28 — REFL-01, REFL-02, REFL-03 marked complete after Phase 2 execution*

@@ -43,9 +43,9 @@
 - [x] **ASBL-02**: First cell contains repo link and contribution statement
 - [x] **ASBL-03**: Each question repeated as markdown header before its answer
 - [x] **ASBL-04**: Code split by question (not monolithic cells)
-- [ ] **ASBL-05**: All plots have labeled axes, titles, and explanatory text
-- [ ] **ASBL-06**: Notebook runs end-to-end with Kernel > Restart & Run All
-- [ ] **ASBL-07**: No long outputs — minimize prints, control display length
+- [x] **ASBL-05**: All plots have labeled axes, titles, and explanatory text
+- [x] **ASBL-06**: Notebook runs end-to-end with Kernel > Restart & Run All
+- [x] **ASBL-07**: No long outputs — minimize prints, control display length
 
 ## v2 Requirements
 
@@ -85,9 +85,9 @@ None — single assignment delivery.
 | ASBL-02 | Phase 5 | Complete |
 | ASBL-03 | Phase 5 | Complete |
 | ASBL-04 | Phase 5 | Complete |
-| ASBL-05 | Phase 5 | Pending |
-| ASBL-06 | Phase 5 | Pending |
-| ASBL-07 | Phase 5 | Pending |
+| ASBL-05 | Phase 5 | Complete |
+| ASBL-06 | Phase 5 | Complete |
+| ASBL-07 | Phase 5 | Complete |
 
 **Coverage:**
 - v1 requirements: 24 total

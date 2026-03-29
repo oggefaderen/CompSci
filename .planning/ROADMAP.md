@@ -16,7 +16,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 2: Part 1 Reflections** - All three written reflection answers for Part 1 are complete (completed 2026-03-28)
 - [x] **Phase 3: TF-IDF Implementation** - IDF bug fixed, TF-IDF code runs correctly, Q3 and Q4 analysis written (completed 2026-03-28)
 - [ ] **Phase 4: Part 2 Writing and Word Clouds** - TF-IDF explanation, word cloud code, all Part 2 commentary, and field reflection written
-- [ ] **Phase 5: Notebook Assembly** - All work merged into Assignment2.ipynb, runs end-to-end, meets formatting requirements
+- [x] **Phase 5: Notebook Assembly** - All work merged into Assignment2.ipynb, runs end-to-end, meets formatting requirements (completed 2026-03-29)
 
 ## Phase Details
 
@@ -110,4 +110,4 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 â
 | 2. Part 1 Reflections | 1/1 | Complete    | 2026-03-28 |
 | 3. TF-IDF Implementation | 3/3 | Complete   | 2026-03-28 |
 | 4. Part 2 Writing and Word Clouds | 0/2 | Not started | - |
-| 5. Notebook Assembly | 1/2 | In Progress|  |
+| 5. Notebook Assembly | 2/2 | Complete   | 2026-03-29 |

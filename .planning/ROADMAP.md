@@ -110,4 +110,4 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 â
 | 2. Part 1 Reflections | 1/1 | Complete    | 2026-03-28 |
 | 3. TF-IDF Implementation | 3/3 | Complete   | 2026-03-28 |
 | 4. Part 2 Writing and Word Clouds | 0/2 | Not started | - |
-| 5. Notebook Assembly | 0/2 | Not started | - |
+| 5. Notebook Assembly | 1/2 | In Progress|  |

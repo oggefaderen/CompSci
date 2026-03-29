@@ -39,10 +39,10 @@
 
 ### Notebook Assembly
 
-- [ ] **ASBL-01**: Merge Part 1 and Part 2 into single Assignment2.ipynb
-- [ ] **ASBL-02**: First cell contains repo link and contribution statement
-- [ ] **ASBL-03**: Each question repeated as markdown header before its answer
-- [ ] **ASBL-04**: Code split by question (not monolithic cells)
+- [x] **ASBL-01**: Merge Part 1 and Part 2 into single Assignment2.ipynb
+- [x] **ASBL-02**: First cell contains repo link and contribution statement
+- [x] **ASBL-03**: Each question repeated as markdown header before its answer
+- [x] **ASBL-04**: Code split by question (not monolithic cells)
 - [ ] **ASBL-05**: All plots have labeled axes, titles, and explanatory text
 - [ ] **ASBL-06**: Notebook runs end-to-end with Kernel > Restart & Run All
 - [ ] **ASBL-07**: No long outputs — minimize prints, control display length
@@ -81,10 +81,10 @@ None — single assignment delivery.
 | VIZN-02 | Phase 4 | Pending |
 | VIZN-03 | Phase 4 | Pending |
 | CSCI-01 | Phase 4 | Pending |
-| ASBL-01 | Phase 5 | Pending |
-| ASBL-02 | Phase 5 | Pending |
-| ASBL-03 | Phase 5 | Pending |
-| ASBL-04 | Phase 5 | Pending |
+| ASBL-01 | Phase 5 | Complete |
+| ASBL-02 | Phase 5 | Complete |
+| ASBL-03 | Phase 5 | Complete |
+| ASBL-04 | Phase 5 | Complete |
 | ASBL-05 | Phase 5 | Pending |
 | ASBL-06 | Phase 5 | Pending |
 | ASBL-07 | Phase 5 | Pending |

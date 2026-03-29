@@ -75,7 +75,11 @@ Plans:
   3. Commentary on word clouds explains what sub-communities reveal about the Computational Social Science field
   4. Top author per community has been looked up online and results are discussed (do they make sense given the community's terms?)
   5. Field reflection explains whether understanding of Computational Social Science has changed after the analysis, with a concrete stance
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 04-01-PLAN.md — TF-IDF explanation (TFID-01) + word cloud code with resolved author names (VIZN-01)
+- [ ] 04-02-PLAN.md — Author lookup table (VIZN-03) + community commentary (VIZN-02) + field reflection (CSCI-01)
 
 ### Phase 5: Notebook Assembly
 **Goal**: All code and writing is merged into a single Assignment2.ipynb that runs end-to-end, meets all formatting requirements, and is ready to submit
@@ -87,7 +91,11 @@ Plans:
   3. Kernel > Restart & Run All completes without errors and all plots render
   4. All plots have labeled axes, titles, and are accompanied by explanatory text
   5. No cell produces excessively long output (prints minimized, display length controlled)
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 05-01-PLAN.md — Cell reorder (Ex1 Q1 before Q2) + 5 header fixes (Part 5, Part 2, Q2/Q3/Q4 levels)
+- [ ] 05-02-PLAN.md — Suppress loop prints + limit TF-IDF output to top 10 + end-to-end verification checkpoint
 
 ## Progress
 
@@ -101,5 +109,5 @@ Note: Phase 2 (reflections) and Phase 3 (TF-IDF) are independent after Phase 1 �
 | 1. Assortativity Code | 2/2 | Complete   | 2026-03-28 |
 | 2. Part 1 Reflections | 1/1 | Complete    | 2026-03-28 |
 | 3. TF-IDF Implementation | 3/3 | Complete   | 2026-03-28 |
-| 4. Part 2 Writing and Word Clouds | 0/TBD | Not started | - |
-| 5. Notebook Assembly | 0/TBD | Not started | - |
+| 4. Part 2 Writing and Word Clouds | 0/2 | Not started | - |
+| 5. Notebook Assembly | 0/2 | Not started | - |
